@@ -1,1 +1,1 @@
-# maelstrom
+This is an old project that I worked on with some other people in which we were using terraform to spin up resources in Azure to run jmeter based loadtesting.  This was to be a replacement for blazemeter.  I believe there was a UI that isn't included here.

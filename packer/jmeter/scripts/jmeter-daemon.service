@@ -1,0 +1,9 @@
+[Unit]
+Description=Apache JMeter Remote Server
+
+[Service]
+User=jmeter
+ExecStart=/bin/bash /home/jmeter/start_jmeter.sh
+
+[Install]
+WantedBy=multi-user.target

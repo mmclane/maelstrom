@@ -1,0 +1,14 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Module directory
+.terraform/
+
+*.log
+*.json
+
+.venv/
+bin/
+.envrc
